@@ -1,0 +1,21 @@
+{
+  "name": "zenitsu-theme",
+  "displayName": "ZenitsuTheme",
+  "description": "A Zenitsu-inspired espresso and gold theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.125.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Zenitsu-themed VSCode extension",
+        "uiTheme": "vs",
+        "path": "./themes/Zenitsu-themed VSCode extension-color-theme.json"
+      }
+    ]
+  }
+}
