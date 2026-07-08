@@ -1,16 +1,22 @@
-# zenitsu-theme README
+# Zenitsu Theme for VS Code
 
-## Working with Markdown
+![Zenitsu Thunder Breathing](zenitsu-theme/img/zenitsu1.gif)
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+A electrifying, Zenitsu-inspired theme for Visual Studio Code. This theme brings the colors of the Thunder Breathing style to your editor.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Features
 
-## For more information
+- Zenitsu Color Palette: Inspired by his iconic haori and lightning abilities.
+- High Contrast: Designed for long coding sessions.
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Installation
 
-**Enjoy!**
+Since this theme is not on the Marketplace, you can install it manually:
+1. Download this repository as a `.zip` file.
+2. Extract the folder.
+3. Use the `vsce package` command to create a `.vsix` file, or simply move the folder into your VS Code extensions directory.
+4. Alternatively, in VS Code, click the **...** (three dots) icon at the top of the Extensions panel and select **Install from VSIX...** to install the package.
+
+## Screenshots
+
+![Zenitsu Theme Preview](zenitsu-theme/img/theme.png)
