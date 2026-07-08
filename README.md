@@ -1,6 +1,6 @@
 # Zenitsu Theme for VS Code
 
-![Zenitsu Thunder Breathing](zenitsu-theme/img/zenitsu1.gif)
+![Zenitsu Thunder Breathing](img/zenitsu1.gif)
 
 A electrifying, Zenitsu-inspired theme for Visual Studio Code. This theme brings the colors of the Thunder Breathing style to your editor.
 
@@ -19,4 +19,4 @@ Since this theme is not on the Marketplace, you can install it manually:
 
 ## Screenshots
 
-![Zenitsu Theme Preview](zenitsu-theme/img/theme.png)
+![Zenitsu Theme Preview](img/finalTheme.png)
